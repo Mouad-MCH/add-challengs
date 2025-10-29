@@ -1,7 +1,6 @@
 
-
 let x = "hello";
-let obj = {}
+let obj = {};
 
 for(i of x) {
     // obj[i] = (obj[i] || 0) +1;
